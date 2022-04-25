@@ -1,7 +1,7 @@
 # Airport Information Table
 
-Simple information table showing important information. 
-HTML and CSS
+Simple information table that shows important information about flights. 
+- HTML and CSS
 
 
 ## License
